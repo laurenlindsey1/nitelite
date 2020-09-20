@@ -1,0 +1,35 @@
+
+
+Evaluation and Feedback
+CMSI 401 project ~~ Fall 2020
+Veda Ashok, Sam Gibson, Rachel Nguyen, Bridget O'Connor, Krysten Tachiyama
+NiteLite project
+==============================
+Presentation:
+   good job on the presentation!  the slides look great, your justification
+   of both the project goals and the applicability to the course are well-
+   thought-out and clear.  this is a very useful project!  your presentation
+   skills were very professional and having the statistics to back up your
+   rationale for the idea was a great addition.  having specific examples of
+   users and situations that would benefit from your idea was also a wonderful
+   idea.
+
+   also, I like the way you broke out the technologies showing what each one
+   would be used for ~~ that's something not many groups do at the proposal
+   stage of this course, but IS something you'll need when you get into the
+   industry!
+
+Proposal Document:
+   nice work here, as well.  The description is at high enough level to give
+   the reader the overview, and yet low enough level to let the reader know
+   what some of the thoughts behind the application are as well as the goals.
+
+   the justification section is well done as well, specifying the MVP focus
+   for the initial project goal as well as similar products and why yours is
+   different.  the focus on all team members learning new concepts and tech
+   from each other is outstanding to highlight!
+
+=============================================================================
+Great job on this presentation and proposal!
+
+your score:  5% out of 5% which is an A-plus
