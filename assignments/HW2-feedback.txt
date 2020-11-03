@@ -1,0 +1,34 @@
+
+
+HW 2 - Piloni & Miles Textbook
+Group #2: Talia, Lauren, Shanaya, and Maya
+
+Category        Weight     Earned
+===========    ========    ======
+Problem 1      [3 pts.]      3.0
+Problem 2      [4 pts.]      4.0
+Problem 3      [6 pts.]      4.0
+Problem 4      [9 pts.]      9.0
+Problem 5      [2 pts.]      2.0
+Problem 6      [7 pts.]      7.0
+Problem 7      [1 pt.]       1.0
+Problem 8      [3 pts.]      3.0
+Problem 9      [5 pts.]      5.0
+Problem 10     [4 pts.]      4.0
+
+      Subtotal [44 max]     42.0
+             Your Total     95.5
+
+         Letter grade   A
+
+On Problem 3, Waterfall has six phases.  Yes, there are several of them that
+are the same as Agile, but specifically Waterfall has requirements, design,
+coding, testing, deployment, and maintenance.  Agile only uses the first 4.
+
+Very perceptive answer on problem 5 about assumptions!  Also, great point in
+problem 6 about "feature fatigue".
+
+Another great point about managing the customer's expectations by being up
+front and open with communication.  Excellent example for problem 9.
+
+Great work as usual!
