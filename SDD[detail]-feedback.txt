@@ -1,0 +1,41 @@
+
+
+CMSI 401 Section 01 ~ Fall Semester 2020
+Group 2 [4 souls] *
+   Talia Bahar, Lauren Lindsey, Shanaya Nagendran, Maya Pegler-Gordon
+      synopsis:   NitLite ~ "safe" route home when travelling by foot
+=====================================================================================
+
+Architectural Design Section:
+-----------------------------
+Wow, this is AWESOME!  You have nailed it again, with your usual aplomb....
+
+The detail presented is good for an architectural view of the project.  Feel
+free to include some diagrams when you put in the detailed section.
+
+OMG, that is the best user manual I've seen since 2005!!
+
+Evaluation score:
+
+    10% out of 10% for this deliverable:  A-plus
+
+
+------------------------
+Detailed Design Section:
+------------------------
+Good work here, as well.  The detail in section 7 is good as descriptions.  I
+was hoping to see a little more detail in terms of how to BUILD the parts you
+describe here.  That's the point of detailed design.  However, this close to
+the end of the semester, I don't expect you to go back and re-vamp this part
+since you have already built so much of it.  Might be something to consider
+doing for your second semester effort, in which case you could make the
+document match what you've actually built.  "Descriptive" document rather
+than "prescriptive" document......
+
+All told, great job!
+
+Evaluation score:
+
+      15% out of 15% for this deliverable:   A-plus
+         Note that the "CDR presentation is folded into "ABCDR"
+            so the 15% reflects 10% for detail and 5% for CDR
