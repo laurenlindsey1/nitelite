@@ -1,0 +1,3 @@
+[submodule "nitelite/NiteLite"]
+	path = nitelite/NiteLite
+	url = https://github.com/mpeglerg/NiteLite.git
