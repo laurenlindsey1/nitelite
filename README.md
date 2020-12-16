@@ -27,7 +27,8 @@ Demo401!
 ```
 
 Demo Video:
-![](images/demo.gif)
+
+<img src="images/demo.gif" alt="demo-vid" class="center" height="600"/>
 
 ###  Installing the software
 To install the software, clone the React app Github repository on your computer with the following command:
